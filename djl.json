@@ -9,9 +9,9 @@
   },
   "link": "https://djl.ai/",
   "dependencies": [
-    "ai.djl:basicdataset:0.28.0-SNAPSHOT",
-    "ai.djl:api:0.28.0-SNAPSHOT",
-    "ai.djl.mxnet:mxnet-engine:0.28.0-SNAPSHOT",
+    "ai.djl:basicdataset:0.33.0",
+    "ai.djl:api:0.33.0",
+    "ai.djl.mxnet:mxnet-engine:0.33.0",
     "org.slf4j:slf4j-simple:2.0.13"
   ],
   "imports": [
