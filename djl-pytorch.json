@@ -8,10 +8,10 @@
   },
   "link": "https://djl.ai/",
   "dependencies": [
-    "ai.djl:basicdataset:0.33.0",
-    "ai.djl:api:0.33.0",
-    "ai.djl.pytorch:pytorch-engine:0.33.0",
-    "ai.djl.pytorch:pytorch-jni:2.5.1-0.33.0",
+    "ai.djl:basicdataset:0.36.0",
+    "ai.djl:api:0.36.0",
+    "ai.djl.pytorch:pytorch-engine:0.36.0",
+    "ai.djl.pytorch:pytorch-jni:2.7.1-0.36.0",
     "ai.djl.pytorch:pytorch-native-cpu:2.5.1",
     "ai.djl.pytorch:pytorch-native-cu124:2.5.1",
     "org.slf4j:slf4j-simple:2.0.13"
